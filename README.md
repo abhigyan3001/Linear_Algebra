@@ -3,8 +3,6 @@
 This repository contains a lightweight linear algebra module implemented **from scratch using only core Python**.  
 The goal of this project is to build intuition for fundamental concepts in vector algebra without relying on libraries like NumPy.
 
-As an MSc Mathematics student, writing these operations manually helps reinforce the geometric and algebraic ideas behind vector spaces while also improving Python design skills.
-
 ---
 
 ## 🔧 Features Implemented
